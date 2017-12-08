@@ -3,4 +3,7 @@ Heat Transfer
 		Magnetic Resonance Imaging,
 		Lattice Boltzmann
 		H2O and CO2 Mixtures, 
+	Suresh Garimella
+		System-Level Simulation of a Solar Power Tower Plant with Thermocline Thermal Energy Storage,
+		
 
