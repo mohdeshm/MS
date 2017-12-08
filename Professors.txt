@@ -1,0 +1,6 @@
+Heat Transfer
+	Richard Buckius
+		Magnetic Resonance Imaging,
+		Lattice Boltzmann
+		H2O and CO2 Mixtures, 
+
