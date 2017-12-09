@@ -9,5 +9,12 @@ Heat Transfer
 		Enhancing solid-liquid interface thermal transport using self-assembled monolayers
 	Issam Mudawar
 		Review of flow boiling and critical heat flux in microgravity
+	Xiulin Ruan
+		Metal/dielectric thermal interfacial transport considering cross-interface electron-phonon coupling: Theory, two-temperature molecular dynamics, and thermal circuit
+	Steven F. Son
+		Characterization of Ethylenediamine Bisborane as a Hypergolic Hybrid Rocket Fuel Additive
 		
-		
+	David Warsinger
+		Energy efficiency of batch and semi-batch (CCRO) reverse osmosis desalination
+	James E. Braun
+		A general multi-agent control approach for building energy system optimization
