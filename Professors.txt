@@ -18,4 +18,7 @@ Heat Transfer
 		Energy efficiency of batch and semi-batch (CCRO) reverse osmosis desalination
 	James E. Braun
 		A general multi-agent control approach for building energy system optimization
-	
+	Neera Jain
+		N. Jain and A. Alleyne, "Exergy-Based Optimal Control of a Vapor Compression System." Energy Conversion and Management. (To appear)
+	Jay P Gore
+		Quantitative imaging of radiation from soot and carbon dioxide in a turbulent ethylene jet diffusion flame
