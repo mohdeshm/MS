@@ -22,3 +22,15 @@ Heat Transfer
 		N. Jain and A. Alleyne, "Exergy-Based Optimal Control of a Vapor Compression System." Energy Conversion and Management. (To appear)
 	Jay P Gore
 		Quantitative imaging of radiation from soot and carbon dioxide in a turbulent ethylene jet diffusion flame
+	Jun Chen
+		Refinement of particle detection by the hybrid method in digital in-line holography
+	Ivan C. Christov
+		Zhong Zheng, Bo Guo, Ivan C. Christov, Michael A. Celia and Howard A. Stone*, "Flow regimes for fluid injection into a confined porous medium," Journal of Fluid Mechanics 767 (2015) 881-909, doi:10.1017/jfm.2015.68. 
+	Hector Gomez
+		Droplet motion driven by tensotaxis
+	Monika Ivantysynova
+		Kumar, R. and Ivantysynova, M. Dynamic programming based optimal control for assessing the fuel economy of hydraulic hybrids. International Journal of Fluid Power. In review.
+	Guang Lin
+		His research is mostly in the fields Data Analytics,MAchine Learning and Statistics.
+	Terrence R. Meyer
+		High-speed, three-dimensional tomographic laser-induced incandescence imaging of soot volume fraction in turbulent flames.
