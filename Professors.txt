@@ -6,7 +6,7 @@ Heat Transfer
 	Suresh Garimella
 		System-Level Simulation of a Solar Power Tower Plant with Thermocline Thermal Energy Storage,
 	Amy Marconnet
-		Enhancing solid-liquid interface thermal transport using self-assembled monolayers
+		*Enhancing solid-liquid interface thermal transport using self-assembled monolayers
 	Issam Mudawar
 		Review of flow boiling and critical heat flux in microgravity
 	Xiulin Ruan
